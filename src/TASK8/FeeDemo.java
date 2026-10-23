@@ -1,4 +1,4 @@
-package TASK08;
+package TASK8;
 interface Chargeable {
     double chargingFee(int kWh);
 }

@@ -1,4 +1,4 @@
-package TASK03;
+package TASK3;
 import java.util.Arrays;
 
 public class ParkingFacility {
